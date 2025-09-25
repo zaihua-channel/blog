@@ -17,3 +17,7 @@ Telegram 默认语言为英文，中文语言包请在[@zaihuachat](https://t.me
 [在花频道 投稿流程](docs/zaihuapd_tg.md)
 
 [群友问频道 投稿流程](docs/qunyouwen_tg.md)
+
+[在 Telegram 中设置超链接](docs/Telegram_Hyperlink.md)
+
+[解除 Telegram 敏感内容限制](docs/Telegram_Sensitive_Content.md)
