@@ -2,9 +2,9 @@
 
 整理一些关于telegram的小知识，方便大家查阅，避免进坑。
 
-Telegram 默认为英文，中文设置请发送：中文 到 @zaihuachat
+Telegram 默认为英文，中文设置请发送：中文 到 [@zaihuachat](https://t.me/zaihuachat)
 
-我们的频道 科技圈在花频道 @zaihuapd 群友问问答频道 @qunyouwen
+我们的频道 科技圈在花频道 [@zaihuapd](https://t.me/zaihuapd) 群友问问答频道 [@qunyouwen](https://t.me/qunyouwen)
 
 
 
